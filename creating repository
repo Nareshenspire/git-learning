@@ -4,3 +4,6 @@ How to create a new repository in github?
 -> On the top right corner of the github home page there is a "+" symbol.
 -> click on the + symbol you will get a few options in the dropdown
 -> click on the "new repository" option
+-> Give the name of the repository of you own
+->then choose whether your project should be public or private
+->you can also add readme file that have brief description about the repository
